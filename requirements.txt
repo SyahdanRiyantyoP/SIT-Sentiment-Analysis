@@ -3,10 +3,9 @@ nltk
 matplotlib
 seaborn
 scikit-learn
-re
-time
 deep_translator
 langdetect
 textblob
 pyspellchecker
+
 wordcloud
